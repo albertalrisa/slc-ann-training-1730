@@ -1,5 +1,5 @@
 # SLC Artificial Neural Network Training
-This repository contains the materials delivered in the Artificial Neural Network training held in Software Laboratory Center (SLC) on August 27-29, 2018.
+This repository contains the materials delivered in the Artificial Neural Network training held in Software Laboratory Center (SLC), Binus University on August 27-29, 2018.
 
 The codes are separated for each session, with materials as follow:
 1. Session 1: Introduction to Python, Perceptron, and Least Mean Square
@@ -21,4 +21,5 @@ The codes are separated for each session, with materials as follow:
    * Convolutional Neural Network
    
 All codes are written in Python 3.6 with NumPy and TensorFlow 1.10
+
 Later version of TensorFlow may introduce compatibility issues with these codes
